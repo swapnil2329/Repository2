@@ -4,9 +4,15 @@ pipeline
            stages {
                   stage ('one') {
                     steps {
-                         echo "hello alll"
-}
-}
-}
-
+                         echo "2025Q1"
+                          }
+                                }
+                   }
+    stages {
+                  stage ('two') {
+                    steps {
+                         echo "2025Q1"
+                          }
+                                }
+                   }
  }
